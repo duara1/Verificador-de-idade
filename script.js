@@ -38,7 +38,7 @@ function Verificar() {
 
     if (idade >= 18 && idade < 60) {
         if (genero == 'Homem') {
-            img.src = "WhatsApp Image 2025-06-17 at 16.04.03.jpeg"
+            img.src = "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg"
         } else {
             img.src = "https://images.pexels.com/photos/1089164/pexels-photo-1089164.jpeg"
         }
